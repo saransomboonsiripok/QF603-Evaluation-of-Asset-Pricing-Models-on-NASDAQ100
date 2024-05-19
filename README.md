@@ -1,0 +1,1 @@
+In this project, the factor portfolios according to CAPM, Fama-French 3-factor, Carhart 4-factor and Fama-French 5-factor models were constructed using fundamental and historical price data of stocks in NASDAQ100. The models then were evaluated to measure the extent of how they can describe the component of NASDAQ100.
